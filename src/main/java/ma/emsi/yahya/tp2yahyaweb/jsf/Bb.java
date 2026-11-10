@@ -13,6 +13,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @Named
 @ViewScoped
 public class Bb implements Serializable {
